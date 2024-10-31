@@ -6,6 +6,7 @@ export default defineConfig({
     sourceLink: false,
     logo: '/x2ink.png',
     prefersColor: false,
+    footer:"© 2023 x2ink. 版权所有。",
     nav: [
       {
         title: '简历',

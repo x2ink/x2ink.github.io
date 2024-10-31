@@ -1,32 +1,32 @@
 ---
-title: 笔墨AI
+title: 自然堂AI化妆师
 ---
 
-# 笔墨AI
+# 自然堂AI化妆师
 
 ## 体验地址
 
-https://www.bimoai.com/console/
+![小程序太阳码](/zrtaihzs/zrttym.jpg)
 
 ## 作品介绍
 
-> 一个集合了各种AI玩法的工具网站，包括AI文生图，AI图生图，AI换脸等。
+> 这是一款集合了各种AI玩法的小程序，包括AI换脸，AI音乐，AI生图等。AI化妆师，一键生成各种风格照片，你本来就很美。
 
 ## 作品截图
 
-<div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 10px; width: 100%;">
-    <img src="/bimoaiconsole/1.png" alt="" style="width: 100%; height: auto;">
-    <img src="/bimoaiconsole/2.png" alt="" style="width: 100%; height: auto;">
-    <img src="/bimoaiconsole/3.png" alt="" style="width: 100%; height: auto;">
-    <img src="/bimoaiconsole/4.png" alt="" style="width: 100%; height: auto;">
+<div style="display: grid; grid-template-columns: repeat(4, 1fr); gap: 20px; width: 100%;">
+    <img src="/zrtaihzs/1.png" alt="" style="width: 100%; height: auto;">
+    <img src="/zrtaihzs/2.png" alt="" style="width: 100%; height: auto;">
+    <img src="/zrtaihzs/3.png" alt="" style="width: 100%; height: auto;">
+    <img src="/zrtaihzs/4.png" alt="" style="width: 100%; height: auto;">
 </div>
 
 ## 项目技术栈
 
 - **框架**：
+  - uniapp
   - Vue3
-  - Axios
-  - Vue-Router
+  - uview-plus
 
 - **前端技术**：
   - HTML
