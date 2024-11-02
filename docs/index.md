@@ -6,5 +6,5 @@ hero:
     - text: gitee
       link: https://gitee.com/x2ink
     - text: 简历
-      link: /
+      link: /vitae
 ---
