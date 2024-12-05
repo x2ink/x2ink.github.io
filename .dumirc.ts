@@ -18,8 +18,8 @@ export default defineConfig({
         link: '/opus'
       },
       {
-        title: '博客',
-        link: '/blog'
+        title: '面试',
+        link: '/interview'
       },
       {
         title: '目标',
