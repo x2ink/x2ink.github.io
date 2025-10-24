@@ -1,4 +1,4 @@
-import {defineConfig} from 'dumi';
+import { defineConfig } from 'dumi';
 
 export default defineConfig({
   themeConfig: {
@@ -7,6 +7,9 @@ export default defineConfig({
     logo: '/x2ink.png',
     showLineNum: true,
     footer: false,
+    socialLinks: {
+      github: 'https://github.com/x2ink',
+    },
     nav: [
       {
         title: '简历',
@@ -17,14 +20,14 @@ export default defineConfig({
         link: '/opus'
       },
       {
-        title: '面试',
+        title: '博客',
         link: '/interview'
       },
       {
-        title: '目标',
+        title: '收藏',
         link: '/goal'
       }
     ]
   },
 })
-;
+  ;
