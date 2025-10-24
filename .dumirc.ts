@@ -5,7 +5,6 @@ export default defineConfig({
     editLink: false,
     sourceLink: false,
     logo: '/x2ink.png',
-    prefersColor: false,
     showLineNum: true,
     footer: false,
     nav: [

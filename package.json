@@ -2,17 +2,15 @@
   "name": "mysite",
   "version": "0.0.1",
   "description": "A static site based on dumi",
-  "scripts": {
-    "start": "npm run dev",
-    "dev": "dumi dev",
-    "build": "dumi build",
-    "preview": "dumi preview",
-    "prepare": "husky install && dumi setup"
-  },
-  "authors": [
-    "97400220@qq.com"
-  ],
   "license": "MIT",
+  "scripts": {
+    "build": "dumi build",
+    "deploy": "gh-pages -d dist",
+    "dev": "dumi dev",
+    "prepare": "husky install && dumi setup",
+    "preview": "dumi preview",
+    "start": "npm run dev"
+  },
   "commitlint": {
     "extends": [
       "@commitlint/config-conventional"
@@ -23,6 +21,9 @@
       "prettier --write --no-error-on-unmatched-pattern"
     ]
   },
+  "dependencies": {
+    "gh-pages": "^6.3.0"
+  },
   "devDependencies": {
     "@commitlint/cli": "^17.1.2",
     "@commitlint/config-conventional": "^17.1.0",
@@ -30,5 +31,8 @@
     "husky": "^8.0.1",
     "lint-staged": "^13.0.3",
     "prettier": "^2.7.1"
-  }
+  },
+  "authors": [
+    "97400220@qq.com"
+  ]
 }
