@@ -21,11 +21,11 @@ export default defineConfig({
       },
       {
         title: '博客',
-        link: '/interview'
+        link: '/blogs'
       },
       {
         title: '收藏',
-        link: '/goal'
+        link: '/stars'
       }
     ]
   },
