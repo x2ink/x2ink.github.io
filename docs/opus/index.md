@@ -1,22 +1,17 @@
-# 自然堂 AI 化妆师
+# 简介
 
-## 体验地址
+迄今为止我参与和独立开发的所有项目。
 
-![小程序太阳码](/zrtaihzs/zrttym.jpg)
+# 目录
 
-## 作品介绍
-
-自然堂 AI 化妆师是一款集合了多种 AI 玩法的小程序，包括 AI 换脸、AI 音乐、AI 生图等功能。用户可以通过 AI 化妆师一键生成各种风格的照片，体验“你本来就很美”的独特魅力。
-
-## 作品截图
-
-<div style="display: grid; grid-template-columns: repeat(4, 1fr); gap: 20px; width: 100%;">
-    <img src="/zrtaihzs/1.png" alt="" style="width: 100%; height: auto;">
-    <img src="/zrtaihzs/2.png" alt="" style="width: 100%; height: auto;">
-    <img src="/zrtaihzs/3.png" alt="" style="width: 100%; height: auto;">
-    <img src="/zrtaihzs/4.png" alt="" style="width: 100%; height: auto;">
-</div>
-
-## 评价
-
-用 uniapp 做的微信小程序，独立完成。
+- [小二云盘](/opus/x2pan1)
+- [安徽理工大学现代教育技术部门官网](/opus/aust)
+- [笔墨 AI 拍照机](/opus/bimoaicamera)
+- [笔墨 AI](/opus/bimoaiconsole)
+- [笔墨 AI 拍报机](/opus/bimoainewspaper)
+- [笔墨官网](/opus/bimoaiweb)
+- [官网系统](/opus/fastbuild)
+- [三星堆 AI 影像馆](/opus/sanxingdui)
+- [上海中心活动](/opus/shanghaitower)
+- [白蛇集卡活动](/opus/whitesnake)
+- [其他作品](/opus/other)
