@@ -2,7 +2,7 @@
 title: 杨成林的网站
 hero:
   title: Welcome
-  description: I'm a ordinary programmer
+  description: I'm an ordinary programmer
   actions:
     - text: 查看简历
       link: /vitae
