@@ -16,6 +16,8 @@ $ npm run build
 
 # Locally preview the production build
 $ npm run preview
+# update github
+npm run deploy
 ```
 
 ## LICENSE
