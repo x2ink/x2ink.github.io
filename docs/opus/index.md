@@ -4,7 +4,8 @@
 
 # 目录
 
-- [小二云盘](/opus/x2pan1)
+- [小二云盘](/opus/x2pan)
+- [轻松日语](/opus/easyjapanese)
 - [安徽理工大学现代教育技术部门官网](/opus/aust)
 - [笔墨 AI 拍照机](/opus/bimoaicamera)
 - [笔墨 AI](/opus/bimoaiconsole)

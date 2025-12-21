@@ -7,23 +7,26 @@ title: 软件工程师
 ## 个人信息
 
 - **姓名**: 杨成林
-- **年龄**: 22 岁
+- **年龄**: 23 岁
 - **邮箱**: 97400220@qq.com
 - **毕业院校**: 安徽理工大学（本科）
 - **所学专业**: 数字媒体技术
 - **获得证书**: 大学英语四级，大学日语四级
+- **求职意向**: 前端开发工程师、Android 开发工程师
 
 ## 个人简介
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;具有丰富的后端开发经验，熟练掌握 Python、Java 和 Go 语言。擅长使用 Django、Flask、SpringBoot、Gin、Echo 等框架进行 Web 开发。具备使用爬虫经验，能够使用 Python 处理各种文档格式，如 docx。具备良好的代码规范和团队协作能力，致力于构建高效、可扩展的后端系统。在团队合作中，我熟练使用 Git 进行版本控制和代码管理，确保项目的顺利推进和代码的持续集成。我的学习能力强，愿意接纳新事物，并能够快速适应新技术和工具。我注重代码的可读性和可维护性，始终保持对技术的热情和追求，致力于不断提升自己的技术水平和解决问题的能力。
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;数字媒体技术专业本科毕业，专注于前端与移动端应用开发。具备扎实的计算机科学基础，精通 Vue、React、Uniapp 等主流前端框架，能够高效构建响应式网页及小程序。同时拥有 Android 原生（Java/Kotlin）开发能力，熟悉 Android 四大组件与系统底层机制，擅长“原生 + H5”混合开发及跨端解决方案。具备良好的工程化思维与代码规范，熟练使用 Git 进行团队协作，学习能力强，能够快速适应新技术栈，致力于打造极致的用户体验。
 
 ## 专业技能
 
-- **前端**: 掌握 Vue，React，uniapp 等主流框架等使用，有扎实的 HTML，CSS，JavaScript 基础，熟练使用 ES6+ 新增语法，理解原型，闭包，异步等概念，熟练使用 nodejs，TypeScript 等技术。
-- **Android**: 待补充
-- **Go**: 待补充
-- **Python**: 待补充
-- **Mysql**: 待补充
+- 掌握 HTML5、CSS3 具备扎实的前端开发基础，理解并掌握盒子模型，响应式布局，移动端兼容等问题 。
+- 掌握 JavaScript，理解原型，闭包，异步等概念，熟练使用 ES6+ 语法，熟悉常用设计模式。
+- 掌握 Vue、React、Uniapp、Jquery 进行项目开发，会使用 CSS 预处理语言及相关技术栈。
+- 熟悉使用 Bootstrap、Element、AntDesign、uView 等组件库，高效构建用户界面。
+- 熟悉 Android 系统控件及自定义控件，熟悉 MVC，MV，MVVM 等设计模式，理解 Android 四大组件、生命周期、消息机制、多线程开发等；具有扎实的 Java/Kotlin 语言基础。
+- 掌握 WebView 与 Native 通信机制 (JSBridge)，具备使用 uniapp 进行跨端开发的能力；熟练掌握 Git 版本管理具备团队协作开发的能力。
+- 熟练使用 Android Studio、VS Code、Chrome DevTools、Postman、Proxyman 等各种主流工具开发与调试。
 
 ## 工作经历
 

@@ -7,6 +7,7 @@ export default defineConfig({
     logo: '/x2ink.png',
     showLineNum: true,
     footer: false,
+    prefersColor: { default: 'light' , switch: false},
     socialLinks: {
       github: 'https://github.com/x2ink',
     },
@@ -18,14 +19,6 @@ export default defineConfig({
       , {
         title: '作品',
         link: '/opus'
-      },
-      {
-        title: '博客',
-        link: '/blogs'
-      },
-      {
-        title: '收藏',
-        link: '/stars'
       }
     ]
   },
