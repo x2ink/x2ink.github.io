@@ -101,7 +101,7 @@
   animation: fade-up 0.8s ease-out 0.2s backwards;
 }
 
-.hero-motto-card::before {
+/* .hero-motto-card::before {
   content: '\u201C';
   position: absolute;
   top: -10px;
@@ -111,7 +111,7 @@
   color: #1677ff;
   opacity: 0.15;
   font-family: serif;
-}
+} */
 
 .hero-motto-text {
   font-size: 1.2rem;
@@ -218,7 +218,7 @@
 
 .product-content {
   flex: 1;
-  z-index: 10;
+  z-index: 1;
   padding-right: 40px;
   min-width: 300px;
   display: flex;
