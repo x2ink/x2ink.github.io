@@ -252,15 +252,10 @@ def file(request):
 `,paraId:14,tocIndex:12},{value:"\u5728\u8FD9\u4E2A\u4F8B\u5B50\u4E2D\uFF0C",paraId:15,tocIndex:12},{value:".card",paraId:15,tocIndex:12},{value:" \u5143\u7D20\u5305\u542B\u4E24\u4E2A\u5B50\u5143\u7D20\uFF1A",paraId:15,tocIndex:12},{value:".front",paraId:15,tocIndex:12},{value:" \u548C ",paraId:15,tocIndex:12},{value:".back",paraId:15,tocIndex:12},{value:"\u3002",paraId:15,tocIndex:12},{value:".front",paraId:15,tocIndex:12},{value:" \u662F\u5361\u7247\u7684\u6B63\u9762\uFF0C",paraId:15,tocIndex:12},{value:".back",paraId:15,tocIndex:12},{value:" \u662F\u5361\u7247\u7684\u80CC\u9762\u3002\u901A\u8FC7\u8BBE\u7F6E ",paraId:15,tocIndex:12},{value:"backface-visibility: hidden",paraId:15,tocIndex:12},{value:"\uFF0C\u6211\u4EEC\u786E\u4FDD\u5728\u5361\u7247\u7FFB\u8F6C\u65F6\uFF0C\u6B63\u9762\u548C\u80CC\u9762\u7684\u5185\u5BB9\u4E0D\u4F1A\u4E92\u76F8\u5E72\u6270\u3002",paraId:15,tocIndex:12},{value:"visible",paraId:16,tocIndex:13},{value:"\uFF1A\u5143\u7D20\u7684\u80CC\u9762\u5728\u4E09\u7EF4\u53D8\u6362\u65F6\u662F\u53EF\u89C1\u7684\u3002",paraId:16,tocIndex:13},{value:"hidden",paraId:16,tocIndex:13},{value:"\uFF1A\u5143\u7D20\u7684\u80CC\u9762\u5728\u4E09\u7EF4\u53D8\u6362\u65F6\u662F\u4E0D\u53EF\u89C1\u7684\u3002",paraId:16,tocIndex:13},{value:"\u5361\u7247\u7FFB\u8F6C\u6548\u679C",paraId:17,tocIndex:14},{value:"\uFF1A\u5728\u5B9E\u73B0\u5361\u7247\u7FFB\u8F6C\u6548\u679C\u65F6\uFF0C\u901A\u5E38\u4F1A\u4F7F\u7528 ",paraId:17,tocIndex:14},{value:"backface-visibility: hidden",paraId:17,tocIndex:14},{value:" \u6765\u786E\u4FDD\u6B63\u9762\u548C\u80CC\u9762\u7684\u5185\u5BB9\u5728\u7FFB\u8F6C\u65F6\u4E0D\u4F1A\u4E92\u76F8\u5E72\u6270\u3002",paraId:17,tocIndex:14},{value:"3D \u53D8\u6362",paraId:17,tocIndex:14},{value:"\uFF1A\u5728\u590D\u6742\u7684 3D \u53D8\u6362\u4E2D\uFF0C\u4F7F\u7528 ",paraId:17,tocIndex:14},{value:"backface-visibility: hidden",paraId:17,tocIndex:14},{value:" \u53EF\u4EE5\u907F\u514D\u80CC\u9762\u5185\u5BB9\u5728\u4E0D\u5E94\u8BE5\u663E\u793A\u7684\u65F6\u5019\u51FA\u73B0\u3002",paraId:17,tocIndex:14},{value:"backface-visibility: hidden",paraId:18,tocIndex:15},{value:" \u662F\u4E00\u4E2A\u975E\u5E38\u6709\u7528\u7684 CSS \u5C5E\u6027\uFF0C\u7279\u522B\u662F\u5728\u5B9E\u73B0\u5361\u7247\u7FFB\u8F6C\u6548\u679C\u65F6\u3002\u5B83\u786E\u4FDD\u5143\u7D20\u7684\u80CC\u9762\u5728\u4E09\u7EF4\u53D8\u6362\u65F6\u4E0D\u53EF\u89C1\uFF0C\u4ECE\u800C\u907F\u514D\u4E86\u4E00\u4E9B\u89C6\u89C9\u4E0A\u7684\u5E72\u6270\u3002",paraId:18,tocIndex:15}]},93026:function(t,n,a){a.r(n),a.d(n,{texts:function(){return e}});var d=a(69195);const e=[{value:"\u535A\u5BA2\u4E3B\u8981\u5199\u7684\u662F\u6280\u672F\u6587\u7AE0,\u6682\u65F6\u4E0D\u66F4\u65B0\u8F6C\u8F7D\u7684\u3002",paraId:0,tocIndex:0},{value:"\u7528 html \u548C css \u7B80\u5355\u5B9E\u73B0\u5361\u7247\u53CD\u8F6C\u6548\u679C",paraId:1,tocIndex:1},{value:"javascript \u539F\u751F+django \u5B9E\u73B0\u6587\u4EF6\u65AD\u70B9\u4E0A\u4F20",paraId:2,tocIndex:1},{value:"\u5FAE\u4FE1\u5C0F\u7A0B\u5E8F JSAPI \u4E0B\u5355\u652F\u4ED8 PHP \u524D\u540E\u7AEF\u6559\u7A0B",paraId:3,tocIndex:1}]},51446:function(t,n,a){a.r(n),a.d(n,{texts:function(){return e}});var d=a(68537);const e=[{value:`
   `,paraId:0},{value:`
     `,paraId:0},{value:"\u{1F44B} Hello, I'm Yang",paraId:0},{value:`
-    `,paraId:0},{value:"\u5954\u8D74\u5C71\u6D77",paraId:0},{value:`
+    `,paraId:0},{value:"\u201CI think it is possible for ordinary people to choose to be extraordinary.\u201D",paraId:0},{value:`
     `,paraId:0},{value:`
-      `,paraId:0},{value:`
-        \u4E0D\u7BA1\u5C06\u6765\u4ECE\u4E8B\u4EC0\u4E48\u804C\u4E1A\uFF0C\u6709\u4EC0\u4E48\u6837\u7684\u5FD7\u5411\uFF0C\u4E00\u5B9A\u8981\u52A0\u5F3A\u57FA\u7840\u77E5\u8BC6\u7684\u5B66\u4E60\u3002\u6253\u7262\u57FA\u672C\u529F\u548C\u57F9\u80B2\u521B\u65B0\u80FD\u529B\u662F\u5E76\u884C\u4E0D\u6096\u7684\u3002\u628A\u57FA\u7840\u6253\u7262\u4E86\uFF0C\u624D\u80FD\u89E6\u7C7B\u65C1\u901A\uFF0C\u884C\u884C\u90FD\u53EF\u4EE5\u5199\u51FA\u7CBE\u5F69\u3002
-      `,paraId:1,tocIndex:0},{value:`
-    `,paraId:0},{value:`
-    `,paraId:0},{value:`
-       `,paraId:0},{value:"\u9879\u76EE\u7ECF\u5386",paraId:2,tocIndex:0},{value:`
-      `,paraId:0},{value:"\u67E5\u770B\u7B80\u5386",paraId:3,tocIndex:0},{value:`
+       `,paraId:0},{value:"\u9879\u76EE\u7ECF\u5386",paraId:1,tocIndex:0},{value:`
+      `,paraId:0},{value:"\u67E5\u770B\u7B80\u5386",paraId:2,tocIndex:0},{value:`
     `,paraId:0},{value:`
   `,paraId:0},{value:`
     `,paraId:0},{value:`
@@ -275,8 +270,8 @@ def file(request):
         `,paraId:0},{value:`
         `,paraId:0},{value:`
           \u7ACB\u5373\u4F53\u9A8C
-          `,paraId:4},{value:`
-        `,paraId:4},{value:`
+          `,paraId:3},{value:`
+        `,paraId:3},{value:`
       `,paraId:0},{value:`
       `,paraId:0},{value:`
         `,paraId:0},{value:`
