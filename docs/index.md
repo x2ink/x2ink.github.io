@@ -93,45 +93,11 @@ features: []
   -webkit-text-fill-color: transparent;
   animation: gradient-text 4s linear infinite;
 }
-
-.hero-motto-card {
-  position: relative;
-  margin-bottom: 40px;
-  padding:40px;
-  background: #f9f9f9; 
-  border-radius: 20px;
-  border: 1px solid #eee;
-  box-shadow: 0 10px 30px rgba(0,0,0,0.02);
-  max-width: 760px;
-  animation: fade-up 0.8s ease-out 0.2s backwards;
-}
-
-/* .hero-motto-card::before {
-  content: '“';
-  position: absolute;
-  top: -10px;
-  left: 20px;
-  font-size: 80px;
-  line-height: 1;
-  color: #1677ff;
-  opacity: 0.15;
-  font-family: serif;
-} */
-
-.hero-motto-text {
-  font-size: 1.2rem;
-  color: #444;
-  line-height: 1.8;
-  font-weight: 400;
-  text-align: justify; 
-  text-align-last: center; 
-  margin: 0;
-}
-
 /* =========================================
    3. 核心按钮样式 (强制重置 防止污染)
    ========================================= */
 .hero-actions {
+  margin-top:80px;
   display: flex;
   gap: 20px;
   justify-content: center;
@@ -324,9 +290,6 @@ features: []
 @media (max-width: 768px) {
   .hero-wrapper { min-height: auto; padding: 100px 0 60px; margin-bottom: 2rem; }
   .hero-title { font-size: 2.8rem; margin-bottom: 30px; }
-  .hero-motto-card { padding: 20px; margin-bottom: 30px; }
-  .hero-motto-text { font-size: 1rem; text-align: left; text-align-last: left;}
-  
   .product-showcase {
     flex-direction: column; padding: 40px 24px; height: auto; 
     text-align: center; display: flex; overflow: hidden;
@@ -352,14 +315,8 @@ features: []
   <div class="hero-content">
     <span class="hero-tag">👋 Hello, I'm Yang</span>
     <h1 class="hero-title">
-      保持热爱<br>
-      <span class="hero-highlight">奔赴山海</span>
+      <span class="hero-highlight">“I think it is possible for ordinary people to choose to be extraordinary.”</span>
     </h1>
-    <div class="hero-motto-card">
-      <p class="hero-motto-text">
-        不管将来从事什么职业，有什么样的志向，一定要加强基础知识的学习。打牢基本功和培育创新能力是并行不悖的。把基础打牢了，才能触类旁通，行行都可以写出精彩。
-      </p>
-    </div>
     <div class="hero-actions">
        <a href="/opus" class="hero-btn hero-btn-primary">项目经历</a>
       <a href="/vitae" class="hero-btn hero-btn-secondary">查看简历</a>
