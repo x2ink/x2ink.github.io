@@ -7,20 +7,30 @@ export default defineConfig({
     logo: '/x2ink.png',
     showLineNum: true,
     footer: false,
-    prefersColor: { default: 'light' , switch: false},
+    prefersColor: { default: 'light', switch: false },
     socialLinks: {
       github: 'https://github.com/x2ink',
     },
     nav: [
       {
-        title: '简历',
-        link: '/vitae'
-      }
-      , {
-        title: '作品',
-        link: '/opus'
+        title: '博客',
+        link: '/blogs'
+      },
+      {
+        title: '产品',
+        link: '/product'
       }
     ]
   },
 })
   ;
+
+
+// {
+//   title: '简历',
+//   link: '/vitae'
+// }
+// , {
+//   title: '作品',
+//   link: '/opus'
+// }, 
