@@ -202,10 +202,8 @@ features: []
   width: 80px;
   height: 80px;
   border-radius: 20px;
+  overflow: hidden;
   margin-bottom: 24px;
-  background: white;
-  padding: 10px;
-  box-sizing: border-box;
   animation: float 6s ease-in-out infinite;
   box-shadow: 0 10px 20px rgba(0,0,0,0.05);
 }
@@ -328,12 +326,12 @@ features: []
     <div class="product-showcase">
       <div class="product-content">
         <div class="product-logo">
-          <img src="/other/easyjapanese.png" style="width: 100%; height: 100%; object-fit: contain;" alt="logo" />
+          <img src="/easyjapanese/easyjapanese.png" style="width: 100%; height: 100%;" alt="logo" />
         </div>
-        <div class="product-title">轻松日语</div>
+        <div class="product-title">随身日语</div>
         <div class="product-desc">
-          专注于日语单词学习与记忆的微信小程序。<br>
-          抛弃繁杂的功能，回归语言学习的本质，力求打造最自由、最轻量的日语词典体验。
+          专注于日语学习与单词记忆的微信小程序。<br>
+          抛弃繁杂的功能，回归语言学习的本质，力求打造最自由、最轻量的日语学习体验。
         </div>
         <a href="/opus/easyjapanese" class="product-btn">
           立即体验
@@ -342,10 +340,10 @@ features: []
       </div>
       <div class="product-visual">
         <div class="phone-mockup phone-secondary">
-           <img src="/easyjapanese/2.jpg" alt="App Screenshot 2">
+           <img src="/easyjapanese/2.png" alt="App Screenshot 2">
         </div>
         <div class="phone-mockup phone-primary">
-           <img src="/easyjapanese/1.jpg" alt="App Screenshot 1">
+           <img src="/easyjapanese/1.png" alt="App Screenshot 1">
         </div>
       </div>
     </div>

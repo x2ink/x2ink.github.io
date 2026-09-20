@@ -1,4 +1,4 @@
-# 轻松日语
+# 随身日语
 
 ## 体验地址
 
@@ -11,8 +11,8 @@
 ## 作品截图
 
 <div style="display: grid; grid-template-columns: repeat(4, 1fr); gap: 10px; width: 100%;">
-    <img src="/easyjapanese/1.jpg" alt="" style="width: 100%; height: auto;">
-    <img src="/easyjapanese/2.jpg" alt="" style="width: 100%; height: auto;">
+    <img src="/easyjapanese/1.png" alt="" style="width: 100%; height: auto;">
+    <img src="/easyjapanese/2.png" alt="" style="width: 100%; height: auto;">
     <img src="/easyjapanese/3.jpg" alt="" style="width: 100%; height: auto;">
     <img src="/easyjapanese/4.jpg" alt="" style="width: 100%; height: auto;">
 </div>

@@ -11,26 +11,25 @@ export default defineConfig({
     socialLinks: {
       github: 'https://github.com/x2ink',
     },
-    nav: [
-      {
-        title: '博客',
-        link: '/blogs'
-      },
-      {
-        title: '产品',
-        link: '/product'
-      }
+    nav: [{
+      title: '简历',
+      link: '/vitae'
+    }
+      , {
+      title: '作品',
+      link: '/opus'
+    },
+    {
+      title: '博客',
+      link: '/blogs'
+    },
+    {
+      title: '产品',
+      link: '/product'
+    }
     ]
   },
 })
   ;
 
 
-// {
-//   title: '简历',
-//   link: '/vitae'
-// }
-// , {
-//   title: '作品',
-//   link: '/opus'
-// }, 
