@@ -5,5 +5,5 @@
 # 目录
 
 - [用 html 和 css 简单实现卡片反转效果](/blogs/2024121501)
+- [Android 常见面试题精选](/blogs/2022081501)
 - [javascript 原生+django 实现文件断点上传](/blogs/2024041001)
-- [微信小程序 JSAPI 下单支付 PHP 前后端教程](/blogs/2022081501)
